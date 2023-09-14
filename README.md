@@ -5,4 +5,13 @@
   </p>
 </div>
 
-[![My GitHub stats](https://lion-brother.vercel.app/api?username=Luis-Sejer&theme=maroongold)](https://github.com/Luis-Sejer/)
+
+Stats             |  Languages
+:-------------------------:|:-------------------------:
+[![My GitHub stats](https://lion-brother.vercel.app/api?username=Luis-Sejer\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/Luis-Sejer/)  |  [![My GitHub stats](https://lion-brother.vercel.app/api/top-langs/?username=Luis-Sejer&hide=html,jupyter%20notebook,css\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/Luis-Sejer/) 
+
+
+
+
+
+
