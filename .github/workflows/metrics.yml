@@ -1,8 +1,10 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (at 23:00 on weekdays) to debloat contribution graphs
-  schedule: [{ cron: "0 23 * * 1-5" }]
+  # Schedule updates for 23:00 Europe/Copenhagen on weekdays (handles DST)
+  schedule:
+    - cron: "0 21 * * 1-5"
+    - cron: "0 22 * * 1-5"
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: { branches: ["master", "main"] }
@@ -12,7 +14,18 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Check local Copenhagen time
+        if: github.event_name == 'schedule'
+        id: copenhagen-time
+        run: |
+          if [ "$(TZ=Europe/Copenhagen date +%H)" = "23" ]; then
+            echo "run_metrics=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run_metrics=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - uses: lowlighter/metrics@latest
+        if: github.event_name != 'schedule' || steps.copenhagen-time.outputs.run_metrics == 'true'
         with:
           # Your GitHub token
           # The following scopes are required:
