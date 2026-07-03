@@ -16,6 +16,8 @@
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=saturn&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=startrek&logoColor=white)
+![Scaleway](https://img.shields.io/badge/-Scaleway-4F0599?style=flat-square&logo=scaleway&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
