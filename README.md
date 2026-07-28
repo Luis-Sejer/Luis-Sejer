@@ -37,7 +37,7 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openaigym&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-<p style="font-size: 7px; color: #777;">shields.io didn't have real AWS or Azure logos, so that's a Saturn icon and a Star Trek badge up there standing in for two multi-billion dollar cloud providers. my ocd would not let me leave a badge logo-less, so a rogue planet and a Starfleet insignia it is.</p>
+<sup><sup>shields.io didn't have real AWS or Azure logos, so that's a Saturn icon and a Star Trek badge up there standing in for two multi-billion dollar cloud providers. my ocd would not let me leave a badge logo-less, so a rogue planet and a Starfleet insignia it is.</sup></sup>
 
 <br/>
 
