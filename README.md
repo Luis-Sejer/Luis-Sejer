@@ -5,7 +5,7 @@
     I'm Luis, a developer from Denmark <img src="https://img.icons8.com/color/15/000000/denmark.png"/>. 
   </p>
   <p>
-    I work at <a href="https://www.juristic.io/" target="_blank">Juristic</a>, where I design the app end-to-end, wire up multi-cloud deployments across different cloud providers, and most importantly make sure everything does not explode🫪.
+    I work at <a href="https://www.juristic.io/" target="_blank">Juristic</a>, where I design the app end-to-end, wire up multi-cloud deployments across different cloud providers, and most importantly make sure everything just works.
   </p>
   <p>
     Outside of work you'll usually find me up a mountain, in the waves, or somewhere in a new city with my trusty fuji camera.
