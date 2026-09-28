@@ -12,6 +12,15 @@
   </p>
 </div>
 
+### What I'm building
+
+<a href="https://github.com/Luis-Sejer/snicker-gif"><img src="https://raw.githubusercontent.com/Luis-Sejer/snicker-gif/main/docs/assets/icon.png" width="64" align="left" alt="Snicker app icon"></a>
+
+**[Snicker](https://github.com/Luis-Sejer/snicker-gif)**: GIF search in the Mac menu bar. Press ⌘⌥V, click a GIF, paste it anywhere, including Microsoft Teams. Free, open source, native SwiftUI.<br/>
+<sub>[Try the live demo](https://luis-sejer.github.io/snicker-gif/) · [Download](https://github.com/Luis-Sejer/snicker-gif/releases/latest)</sub>
+
+<br clear="left"/>
+
 ### Tech I work with
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=saturn&logoColor=white)
@@ -32,10 +41,17 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![MUI](https://img.shields.io/badge/-MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0071E3?style=flat-square&logo=swift&logoColor=white)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![GSAP](https://img.shields.io/badge/-GSAP-0AE448?style=flat-square&logo=greensock&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/-Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openaigym&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white)
 
 <sup><sup>shields.io didn't have real AWS or Azure logos, so that's a Saturn icon and a Star Trek badge up there standing in for two multi-billion dollar cloud providers. my ocd would not let me leave a badge logo-less, so a rogue planet and a Starfleet insignia it is.</sup></sup>
 
