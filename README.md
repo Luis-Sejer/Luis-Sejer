@@ -12,7 +12,7 @@
   </p>
 </div>
 
-### What I'm building
+### Fun side projects
 
 <a href="https://github.com/Luis-Sejer/snicker-gif"><img src="https://raw.githubusercontent.com/Luis-Sejer/snicker-gif/main/docs/assets/icon.png" width="64" align="left" alt="Snicker app icon"></a>
 
