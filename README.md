@@ -21,6 +21,13 @@
 
 <br clear="left"/>
 
+<a href="https://github.com/Luis-Sejer/agent-orrery"><img src="https://raw.githubusercontent.com/Luis-Sejer/agent-orrery/main/docs/assets/icon.png" width="64" align="left" alt="Agent Orrery app icon"></a>
+
+**[Agent Orrery](https://github.com/Luis-Sejer/agent-orrery)**: A live map of your Claude Code agents, and what's waiting on you. See every session and subagent, the repo each one is working in, and which ones need your reply. Free, open source, runs locally in Docker.<br/>
+<sub>[Visit the website](https://orrery.luissejer.dk) · [Get started](https://github.com/Luis-Sejer/agent-orrery#get-started)</sub>
+
+<br clear="left"/>
+
 ### Tech I work with
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=saturn&logoColor=white)
