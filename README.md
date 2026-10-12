@@ -14,17 +14,17 @@
 
 ### Fun side projects
 
-<a href="https://github.com/Luis-Sejer/snicker-gif"><img src="https://raw.githubusercontent.com/Luis-Sejer/snicker-gif/main/docs/assets/icon.png" width="64" align="left" alt="Snicker app icon"></a>
-
-**[Snicker](https://github.com/Luis-Sejer/snicker-gif)**: GIF search in the Mac menu bar. Press ⌘⌥V, click a GIF, paste it anywhere, including Microsoft Teams. Free, open source, native SwiftUI.<br/>
-<sub>[Try the live demo](https://luis-sejer.github.io/snicker-gif/) · [Download](https://github.com/Luis-Sejer/snicker-gif/releases/latest)</sub>
-
-<br clear="left"/>
-
 <a href="https://github.com/Luis-Sejer/agent-orrery"><img src="https://raw.githubusercontent.com/Luis-Sejer/agent-orrery/main/docs/assets/icon.png" width="64" align="left" alt="Agent Orrery app icon"></a>
 
 **[Agent Orrery](https://github.com/Luis-Sejer/agent-orrery)**: A live map of your Claude Code agents, and what's waiting on you. See every session and subagent, the repo each one is working in, and which ones need your reply. Free, open source, runs locally in Docker.<br/>
 <sub>[Visit the website](https://orrery.luissejer.dk) · [Get started](https://github.com/Luis-Sejer/agent-orrery#get-started)</sub>
+
+<br clear="left"/>
+
+<a href="https://github.com/Luis-Sejer/snicker-gif"><img src="https://raw.githubusercontent.com/Luis-Sejer/snicker-gif/main/docs/assets/icon.png" width="64" align="left" alt="Snicker app icon"></a>
+
+**[Snicker](https://github.com/Luis-Sejer/snicker-gif)**: GIF search in the Mac menu bar. Press ⌘⌥V, click a GIF, paste it anywhere, including Microsoft Teams. Free, open source, native SwiftUI.<br/>
+<sub>[Try the live demo](https://luis-sejer.github.io/snicker-gif/) · [Download](https://github.com/Luis-Sejer/snicker-gif/releases/latest)</sub>
 
 <br clear="left"/>
 
