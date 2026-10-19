@@ -14,33 +14,37 @@
 
 ### Portfolio
 
-<a href="https://luissejer.dk"><img src="https://luissejer.dk/icon-512.png" width="64" align="left" alt="Luis Sejer's portfolio icon"></a>
-
-**[luissejer.dk](https://luissejer.dk)**: My portfolio. The websites, web apps and automations I build for clients, and everything else I make.<br/>
-<sub>[Visit the website](https://luissejer.dk) · [See it in English](https://luissejer.dk/en)</sub>
+<p>
+  <a href="https://luissejer.dk"><img src="https://luissejer.dk/icon-512.png" width="64" height="64" align="left" alt="Luis Sejer's portfolio icon"></a>
+  <b><a href="https://luissejer.dk">luissejer.dk</a></b>: My portfolio. The websites, web apps and automations I build for clients, and everything else I make.<br/>
+  <sub><a href="https://luissejer.dk">Visit the website</a> · <a href="https://luissejer.dk/en">See it in English</a></sub>
+</p>
 
 <br clear="left"/>
 
 ### Fun side projects
 
-<a href="https://github.com/Luis-Sejer/agent-orrery"><img src="https://raw.githubusercontent.com/Luis-Sejer/agent-orrery/main/docs/assets/icon.png" width="64" align="left" alt="Agent Orrery app icon"></a>
-
-**[Agent Orrery](https://github.com/Luis-Sejer/agent-orrery)**: A live map of your Claude Code agents, and what's waiting on you. See every session and subagent, the repo each one is working in, and which ones need your reply. Free, open source, runs locally in Docker.<br/>
-<sub>[Visit the website](https://orrery.luissejer.dk) · [Get started](https://github.com/Luis-Sejer/agent-orrery#get-started)</sub>
-
-<br clear="left"/>
-
-<a href="https://github.com/Luis-Sejer/snicker-gif"><img src="https://raw.githubusercontent.com/Luis-Sejer/snicker-gif/main/docs/assets/icon.png" width="64" align="left" alt="Snicker app icon"></a>
-
-**[Snicker](https://github.com/Luis-Sejer/snicker-gif)**: GIF search in the Mac menu bar. Press ⌘⌥V, click a GIF, paste it anywhere, including Microsoft Teams. Free, open source, native SwiftUI.<br/>
-<sub>[Try the live demo](https://luis-sejer.github.io/snicker-gif/) · [Download](https://github.com/Luis-Sejer/snicker-gif/releases/latest)</sub>
+<p>
+  <a href="https://github.com/Luis-Sejer/agent-orrery"><img src="https://raw.githubusercontent.com/Luis-Sejer/agent-orrery/main/docs/assets/icon.png" width="64" height="64" align="left" alt="Agent Orrery app icon"></a>
+  <b><a href="https://github.com/Luis-Sejer/agent-orrery">Agent Orrery</a></b>: A live map of your Claude Code agents, and what's waiting on you. See every session and subagent, the repo each one is working in, and which ones need your reply. Free, open source, runs locally in Docker.<br/>
+  <sub><a href="https://orrery.luissejer.dk">Visit the website</a> · <a href="https://github.com/Luis-Sejer/agent-orrery#get-started">Get started</a></sub>
+</p>
 
 <br clear="left"/>
 
-<a href="https://github.com/Luis-Sejer/topside"><img src="https://raw.githubusercontent.com/Luis-Sejer/topside/main/docs/assets/icon.png" width="64" align="left" alt="Topside app icons"></a>
+<p>
+  <a href="https://github.com/Luis-Sejer/snicker-gif"><img src="https://raw.githubusercontent.com/Luis-Sejer/snicker-gif/main/docs/assets/icon.png" width="64" height="64" align="left" alt="Snicker app icon"></a>
+  <b><a href="https://github.com/Luis-Sejer/snicker-gif">Snicker</a></b>: GIF search in the Mac menu bar. Press ⌘⌥V, click a GIF, paste it anywhere, including Microsoft Teams. Free, open source, native SwiftUI.<br/>
+  <sub><a href="https://luis-sejer.github.io/snicker-gif/">Try the live demo</a> · <a href="https://github.com/Luis-Sejer/snicker-gif/releases/latest">Download</a></sub>
+</p>
 
-**[Topside](https://github.com/Luis-Sejer/topside)**: Eleven small Mac menu bar apps, one small problem each. The week number, a mic mute that works in every call app, a QR code of your clipboard, a second menu bar for the icons hiding behind the notch, and more. Free, open source, native SwiftUI.<br/>
-<sub>[Try them in your browser](https://apps.luissejer.dk) · [Download](https://github.com/Luis-Sejer/topside/releases/latest)</sub>
+<br clear="left"/>
+
+<p>
+  <a href="https://github.com/Luis-Sejer/topside"><img src="https://raw.githubusercontent.com/Luis-Sejer/topside/main/docs/assets/icon.png" width="64" height="64" align="left" alt="Topside app icons"></a>
+  <b><a href="https://github.com/Luis-Sejer/topside">Topside</a></b>: Eleven small Mac menu bar apps, one small problem each, like the week number, a mic mute for every call app and a second menu bar for the notch. Free, open source, native SwiftUI.<br/>
+  <sub><a href="https://apps.luissejer.dk">Try them in your browser</a> · <a href="https://github.com/Luis-Sejer/topside/releases/latest">Download</a></sub>
+</p>
 
 <br clear="left"/>
 
