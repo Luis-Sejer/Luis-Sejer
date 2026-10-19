@@ -12,6 +12,15 @@
   </p>
 </div>
 
+### Portfolio
+
+<a href="https://luissejer.dk"><img src="https://luissejer.dk/icon-512.png" width="64" align="left" alt="Luis Sejer's portfolio icon"></a>
+
+**[luissejer.dk](https://luissejer.dk)**: My portfolio. The websites, web apps and automations I build for clients, and everything else I make.<br/>
+<sub>[Visit the website](https://luissejer.dk) · [See it in English](https://luissejer.dk/en)</sub>
+
+<br clear="left"/>
+
 ### Fun side projects
 
 <a href="https://github.com/Luis-Sejer/agent-orrery"><img src="https://raw.githubusercontent.com/Luis-Sejer/agent-orrery/main/docs/assets/icon.png" width="64" align="left" alt="Agent Orrery app icon"></a>
@@ -25,6 +34,13 @@
 
 **[Snicker](https://github.com/Luis-Sejer/snicker-gif)**: GIF search in the Mac menu bar. Press ⌘⌥V, click a GIF, paste it anywhere, including Microsoft Teams. Free, open source, native SwiftUI.<br/>
 <sub>[Try the live demo](https://luis-sejer.github.io/snicker-gif/) · [Download](https://github.com/Luis-Sejer/snicker-gif/releases/latest)</sub>
+
+<br clear="left"/>
+
+<a href="https://github.com/Luis-Sejer/topside"><img src="https://raw.githubusercontent.com/Luis-Sejer/topside/main/docs/assets/icon.png" width="64" align="left" alt="Topside app icons"></a>
+
+**[Topside](https://github.com/Luis-Sejer/topside)**: Eleven small Mac menu bar apps, one small problem each. The week number, a mic mute that works in every call app, a QR code of your clipboard, a second menu bar for the icons hiding behind the notch, and more. Free, open source, native SwiftUI.<br/>
+<sub>[Try them in your browser](https://apps.luissejer.dk) · [Download](https://github.com/Luis-Sejer/topside/releases/latest)</sub>
 
 <br clear="left"/>
 
