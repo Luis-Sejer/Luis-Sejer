@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" width="1024" height="1024">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#141B30"/>
+      <stop offset="1" stop-color="#2B2840"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="512" cy="790" r="230" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#E8743B" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#E8743B" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="door" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFD08A"/>
+      <stop offset="1" stop-color="#E8743B"/>
+    </linearGradient>
+    <mask id="crescent">
+      <circle cx="712" cy="282" r="58" fill="#fff"/>
+      <circle cx="740" cy="262" r="52" fill="#000"/>
+    </mask>
+    <clipPath id="tile"><rect x="100" y="100" width="824" height="824" rx="185"/></clipPath>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="125%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+  <rect x="100" y="112" width="824" height="824" rx="185" fill="#000" opacity="0.28" filter="url(#shadow)"/>
+  <g clip-path="url(#tile)">
+    <rect x="100" y="100" width="824" height="824" fill="url(#sky)"/>
+    <rect x="600" y="180" width="200" height="200" fill="#F3E6C8" mask="url(#crescent)"/>
+    <g fill="#F3E6C8">
+      <circle cx="290" cy="260" r="6" opacity="0.8"/>
+      <circle cx="420" cy="350" r="5" opacity="0.55"/>
+      <circle cx="540" cy="220" r="5" opacity="0.7"/>
+      <circle cx="230" cy="430" r="4" opacity="0.5"/>
+      <circle cx="830" cy="440" r="5" opacity="0.6"/>
+    </g>
+    <path d="M120 850 L220 730 L330 645 L440 598 L512 590 L584 598 L694 645 L804 730 L904 850 Z" fill="#363C5A"/>
+    <path d="M512 590 L584 598 L694 645 L804 730 L904 850 L700 850 L620 690 Z" fill="#434A6C"/>
+    <path d="M440 598 L512 590 L584 598 L620 690 L404 690 L330 645 Z" fill="#3E4565"/>
+    <path d="M100 840 L320 820 L512 832 L720 818 L924 836 L924 924 L100 924 Z" fill="#1A1F31"/>
+    <circle cx="512" cy="790" r="230" fill="url(#glow)">
+      <animate attributeName="opacity" values="1;0.72;0.95;0.68;1" dur="3.2s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M448 832 L448 744 Q512 668 576 744 L576 832 Z" fill="url(#door)">
+      <animate attributeName="opacity" values="1;0.86;1;0.9;1" dur="3.2s" repeatCount="indefinite"/>
+    </path>
+    <path d="M448 832 L576 832 L640 880 L384 880 Z" fill="#FFB067" opacity="0.28"/>
+    <g fill="#FFC27A">
+      <circle cx="610" cy="720" r="6" opacity="0.85">
+        <animate attributeName="cy" values="730;680;730" dur="5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="412" cy="690" r="5" opacity="0.6">
+        <animate attributeName="cy" values="700;650;700" dur="6.5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+  <rect x="101.5" y="101.5" width="821" height="821" rx="184" fill="none" stroke="#fff" stroke-opacity="0.12" stroke-width="3"/>
+</svg>

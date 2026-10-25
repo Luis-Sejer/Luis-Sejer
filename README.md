@@ -48,6 +48,14 @@
 
 <br clear="left"/>
 
+<p>
+  <img src="assets/coming-soon.svg" width="64" height="64" align="left" alt="A glowing doorway in a hill at night">
+  <b>Coming soon</b>: Something is glowing under the hill. A small game I'm building after hours, and the door opens soon.<br/>
+  <sub>Nothing to click yet. Keep an eye on this spot.</sub>
+</p>
+
+<br clear="left"/>
+
 ### Tech I work with
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=saturn&logoColor=white)
