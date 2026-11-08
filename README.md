@@ -33,6 +33,14 @@
 <br clear="left"/>
 
 <p>
+  <a href="https://plot.luissejer.dk"><img src="https://plot.luissejer.dk/icon-512.png" width="64" height="64" align="left" alt="Plot icon: a plot outline with a red building"></a>
+  <b><a href="https://plot.luissejer.dk">Plot</a></b>: Type any Danish address and get the plot drawn as an architectural plan sheet: the building, the terrain, a section and how it looked decades ago, all from free public data. Free, with a print-ready PDF, in Danish and English.<br/>
+  <sub><a href="https://plot.luissejer.dk/en/">Draw your address</a></sub>
+</p>
+
+<br clear="left"/>
+
+<p>
   <a href="https://github.com/Luis-Sejer/snicker-gif"><img src="https://raw.githubusercontent.com/Luis-Sejer/snicker-gif/main/docs/assets/icon.png" width="64" height="64" align="left" alt="Snicker app icon"></a>
   <b><a href="https://github.com/Luis-Sejer/snicker-gif">Snicker</a></b>: GIF search in the Mac menu bar. Press ⌘⌥V, click a GIF, paste it anywhere, including Microsoft Teams. Free, open source, native SwiftUI.<br/>
   <sub><a href="https://luis-sejer.github.io/snicker-gif/">Try the live demo</a> · <a href="https://github.com/Luis-Sejer/snicker-gif/releases/latest">Download</a></sub>
